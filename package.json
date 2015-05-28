@@ -1,0 +1,16 @@
+{
+  "name": "maicoin-node",
+  "descriptin": "MaiCoin Node Client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "node-overload" : "",
+    "crypto" : "",
+    "request" : ""
+  },
+  "devDependencies" : {
+    "mocha" : "",
+    "should" : "",
+    "nock" : ""
+  }
+}
